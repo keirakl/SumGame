@@ -37,8 +37,8 @@ const styles = StyleSheet.create({
         borderRadius: 15
     },
     selected: {
-        backgroundColor: '#000000',
-        color: '#ffffff',
+        backgroundColor: 'black',
+        color: 'white',
         overflow: 'hidden', //ensure that the background color doesnt overflow outside of the box with borderRadius
     }
 });
